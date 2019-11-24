@@ -1,4 +1,4 @@
-# Multi-label-Classification-with-BERT
+# Multi-label-Classification
 A Multi-label Text Classification with BERT, fastai and torch. 
 
 Given the data set the task is to predict the tags associated with a recipe.
